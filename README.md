@@ -189,7 +189,7 @@ The ResNet-101 confusion matrix demonstrates that the model effectively identifi
 
 ## Contributing
 
-1. Rakshith V Patil
-2. Raunak Singh Rathour
+1. Raunak Singh Rathour
+2. Rakshith V Patil
 3. Sahithi Srujana C
 4. Pinni Sruthi Raga
